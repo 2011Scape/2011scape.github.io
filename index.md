@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![HeaderImage](https://cdn.discordapp.com/attachments/1067274729205010463/1082195714299400192/image.png)
+![HeaderImage](https://cdn.discordapp.com/attachments/1067274729205010463/1082202409830453298/image.png)
 
 
 # Useful Links
