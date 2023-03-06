@@ -3,5 +3,9 @@ description: An open-source emulator for RuneScape as it was in 2011.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-github.url: https://github.com/2011Scape
-discord.url: https://discord.gg/jDbBAKjhxh
+
+github:
+  url: https://github.com/2011Scape
+
+discord:
+  url: https://discord.gg/jDbBAKjhxh
