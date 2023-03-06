@@ -2,11 +2,6 @@
 layout: default
 ---
 
-![LogoImage](https://cdn.discordapp.com/attachments/1067274729205010463/1082144752985702451/2011scapelogo.png)
-
-![HeaderImage](https://cdn.discordapp.com/attachments/1067274729205010463/1082202409830453298/image.png)
-
-
 # Introduction
 
 Welcome to 2011Scape, an open-source emulation of RuneScape as it was on October 4th, 2011. We encourage all newcomers to the project, whether you're interested in playing single-player, on the official world, or contributing whether you're an entry-level or an experienced developer. 2011Scape is licensed with Apache-2.0, and all use or distribution of the code follows the license' permissions.
