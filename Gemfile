@@ -1,8 +1,6 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
-# gem "jekyll", "~> 3.2.1"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem 'jekyll-mentions'
-gem 'jekyll-feed'
+gemspec
 gem "github-pages", "~> 228", group: :jekyll_plugins
