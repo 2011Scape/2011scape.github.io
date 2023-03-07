@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Welcome to 2011Scape, an open-source emulation of RuneScape as it was on October 4th, 2011. We encourage all newcomers to the project, whether you're interested in playing single-player, on the official world, or contributing whether you're an entry-level or an experienced developer. 2011Scape is licensed with Apache-2.0, and all use or distribution of the code follows the license' permissions.
+Welcome to **2011Scape**, an open-source emulation of **RuneScape** as it was on October 4th, 2011. We encourage all newcomers to the project, whether you're interested in playing single-player, on the official world, or contributing whether you're an entry-level or an experienced developer. **2011Scape** is licensed with **Apache-2.0**, and all use or distribution of the code follows the license' permissions.
 
-2011Scape was built from the original RSMod v1 release, and can be found at their GitHub located [here](https://github.com/Tomm0017/rsmod).
+**2011Scape** was built from the original **RSMod v1 release**, and can be found at their GitHub located [here](https://github.com/Tomm0017/rsmod).
 
 
 # Useful Links
