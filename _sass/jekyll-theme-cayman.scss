@@ -110,20 +110,20 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url('https://cdn.discordapp.com/attachments/1067274729205010463/1082566860924530730/image.png');
+  background-image: url('https://cdn.discordapp.com/attachments/1067274729205010463/1082570801125007400/header.png');
   background-size: cover;
   background-repeat: no-repeat;
 
   @include large {
-    padding: 5rem 20rem;
+    padding: 20rem 20rem;
   }
 
   @include medium {
-    padding: 2rem 10rem;
+    padding: 10rem 10rem;
   }
 
   @include small {
-    padding: 2rem 3rem;
+    padding: 5rem 5rem;
   }
 }
 
