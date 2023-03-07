@@ -115,15 +115,15 @@ a {
   background-repeat: no-repeat;
 
   @include large {
-    padding: 5rem 10rem;
+    padding: 5rem 20rem;
   }
 
   @include medium {
-    padding: 2rem 1rem;
+    padding: 2rem 10rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 2rem 3rem;
   }
 }
 
