@@ -11,32 +11,27 @@ Welcome to **2011Scape**, an open-source emulation of **RuneScape** as it was on
 
 ---
 
-### Java Jar - Requires JRE 11
-
-- [2011Scape](https://2011Scape.com/downloads/2011Scape.jar)
-- [JRE 11](https://www.techspot.com/downloads/5553-java-jdk.html)
-
----
-
 ### ![Windows](https://cdn.discordapp.com/attachments/1067274729205010463/1083548565311336579/633191_windows_application_browser_page_window_icon_1.png) Windows Installer
 
 - [64 bit](https://2011Scape.com/downloads/2011ScapeSetup.exe)
 - [32 bit](https://2011Scape.com/downloads/2011ScapeSetup32.exe)
 
----
 
 ### ![Linux](https://cdn.discordapp.com/attachments/1067274729205010463/1083548774992973834/633192_linux_cmd_line_os_terminal_icon.png) Linux Installer
 
 - [Arch64](https://2011Scape.com/downloads/2011Scape-aarch64.AppImage)
 - [x86_64](https://2011Scape.com/downloads/2011Scape.AppImage)
 
----
 
 ### ![Apple](https://cdn.discordapp.com/attachments/1067274729205010463/1083548680184930404/633200_apple_icon_1.png) MacOS Installer
 
 - [Arch64](https://2011Scape.com/downloads/2011Scape-aarch64.dmg)
 - [x64](https://2011Scape.com/downloads/2011Scape-x64.dmg)
 
+### Java Jar - Requires JRE 11
+
+- [2011Scape](https://2011Scape.com/downloads/2011Scape.jar)
+- [(Optional) JRE 11](https://www.techspot.com/downloads/5553-java-jdk.html)
 
 # Useful Links
 
