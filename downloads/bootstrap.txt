@@ -1,10 +1,10 @@
 {
   "artifacts": [
     {
-      "hash": "ea00854de1d9da3e26535c4074044ed329345a19344f2ba1ef98e4e975cf2654",
+      "hash": "f4ef1a9aa82e2bc00c4e65a0dd58f0f238a03a9574e5506510311d15ea630280",
       "name": "2011Scape.jar",
       "path": "https://2011scape.com/2011Scape.jar",
-      "size": 2895385
+      "size": 2943020
     }
   ],
   "client": {
